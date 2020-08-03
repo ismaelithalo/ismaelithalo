@@ -1,4 +1,4 @@
-<h3> Olá, eu Ismael Ithalo (｡•̀ᴗ-)✧</h3>
+<h3> Olá, eu sou Ismael Ithalo (｡•̀ᴗ-)✧</h3>
 <hr>
 <!--
 **ismaelithalo/ismaelithalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
