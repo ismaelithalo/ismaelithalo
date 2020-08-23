@@ -29,6 +29,23 @@ Most used apps
 https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelithalo&theme=dark
 <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ismaelithalo&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
 
+
+# :man_technologist: Luiz Carlos Abbott Galvão Neto
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)](https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/luiz740)](https://t.me/luiz740)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:luiz7401@gmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:luizcarlos_abbott@hotmail.com)](mailto:luizcarlos_abbott@hotmail.com)
+
+    Olá meu nome é Luiz Carlos, Desenvolvedor Fullstack JavaScript e aspirante a DevOps.
+    /
+    Hello my name is Luiz Carlos, Fullstack JavaScript Developer and aspiring DevOps.
+
+
+
+
+
 ### - Languages and Tools...
 
 <p align="center">
