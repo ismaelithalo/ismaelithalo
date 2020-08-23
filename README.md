@@ -1,12 +1,19 @@
-<h3> Olá, eu sou Ismael Ithalo (｡•̀ᴗ-)✧ <img src="https://raw.githubusercontent.com/ismaelithalo/ismaelithalo/master/src/img/signal.gif" width="48" align='right'></h3>
+<h3> Olá, eu sou Ismael Ithalo!  <img src="https://raw.githubusercontent.com/ismaelithalo/ismaelithalo/master/src/img/signal.gif" width="48"></h3>
 <hr>
 <!--img align='right' src="src/img/network.gif" width="230">
 <img align='right' src="src/img/octocat_ismael.png" width="230">
 <!--p><em>Computer Engineering student at <a href="http://www.unb.br">University of Brasilia</a> <img src="https://asmetro.org.br/portalsn/wp-content/uploads/2016/11/UnB.png" width="30"></br-->
-<!-- (｡•̀ᴗ-)✧
-**ismaelithalo/ismaelithalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 
 
-Here are some ideas to get you started:
+  Um pouco sobre mim (｡•̀ᴗ-)✧ 
+  
+  Falar dos meus projetos e planos como o foco em js do uri ou coisas do curso mesmo
+  
+  A imagem talvez vá ser o octocat mesmo, nem usarei a network por enquanto
+  
+  Here are some ideas to get you started:
+
+:octocat:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,4 +23,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+**ismaelithalo/ismaelithalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Most used apps
+https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelithalo&theme=dark
+<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ismaelithalo&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+
+### - Languages and Tools...
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+
+</p>
+
 -->
