@@ -1,6 +1,7 @@
-<h3> Olá, eu sou Ismael Ithalo (｡•̀ᴗ-)✧ <img src="https://media.giphy.com/media/XGDaLXMFuDfQY9Av3p/giphy.gif" width="48" align='right'></h3>
+<h3> Olá, eu sou Ismael Ithalo (｡•̀ᴗ-)✧ <img src="src/img/signal.gif" width="48" align='right'></h3>
 <hr>
-<!--img align='right' src="https://media.giphy.com/media/3oKIPpFhwsMNrRIjN6/giphy.gif" width="230">
+<!--img align='right' src="src/img/network.gif" width="230">
+<img align='right' src="src/img/octocat_ismael.png" width="230">
 <!--p><em>Computer Engineering student at <a href="http://www.unb.br">University of Brasilia</a> <img src="https://asmetro.org.br/portalsn/wp-content/uploads/2016/11/UnB.png" width="30"></br-->
 <!-- (｡•̀ᴗ-)✧
 **ismaelithalo/ismaelithalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
