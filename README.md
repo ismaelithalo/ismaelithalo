@@ -1,4 +1,4 @@
-<h3> Olá, eu sou Ismael Ithalo (｡•̀ᴗ-)✧ <img src="src/img/signal.gif" width="48" align='right'></h3>
+<h3> Olá, eu sou Ismael Ithalo (｡•̀ᴗ-)✧ <img src="https://raw.githubusercontent.com/ismaelithalo/ismaelithalo/master/src/img/signal.gif" width="48" align='right'></h3>
 <hr>
 <!--img align='right' src="src/img/network.gif" width="230">
 <img align='right' src="src/img/octocat_ismael.png" width="230">
