@@ -1,29 +1,51 @@
 <h3> Olá, eu sou Ismael Ithalo!  <img src="https://raw.githubusercontent.com/ismaelithalo/ismaelithalo/master/src/img/signal.gif" width="48"></h3>
 <hr>
+
+  <img 
+    align='right' src="https://raw.githubusercontent.com/ismaelithalo/ismaelithalo/master/src/img/octocat_ismael.png" width="230">
+
+  <p>
+    :mortar_board:
+    <em>Graduando em Engenharia de Redes de Comunicação pela 
+      <a href="http://www.unb.br">Universidade de Brasília</a>
+      <img src="https://raw.githubusercontent.com/ismaelithalo/ismaelithalo/master/src/img/unb.png" width="30">
+      <img src="https://raw.githubusercontent.com/ismaelithalo/ismaelithalo/master/src/img/ft.jpeg" width="30">
+    </em>
+  </p>
+  <!--p>
+    :computer:
+    <em>Desenvolver de aplicações web e mobile de ponta a ponta 
+      <a href="http://www.unb.br">Universidade de Brasília</a>
+      <img src="https://raw.githubusercontent.com/ismaelithalo/ismaelithalo/master/src/img/unb.png" width="30">
+      <img src="https://raw.githubusercontent.com/ismaelithalo/ismaelithalo/master/src/img/ft.jpeg" width="30">
+    </em>
+  </p>
+  <br><br><br>
+  <p>
+    <h4>
+      Recursos que possuo experiência (｡•̀ᴗ-)✧ 
+    </h4>
+    <img width="230" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelithalo&theme=dark"/>
+  </p>
+  
+
 <!--img align='right' src="src/img/network.gif" width="230">
-<img align='right' src="src/img/octocat_ismael.png" width="230">
 <!--p><em>Computer Engineering student at <a href="http://www.unb.br">University of Brasilia</a> <img src="https://asmetro.org.br/portalsn/wp-content/uploads/2016/11/UnB.png" width="30"></br-->
 <!-- 
 
-  Um pouco sobre mim (｡•̀ᴗ-)✧ 
-  
-  Falar dos meus projetos e planos como o foco em js do uri ou coisas do curso mesmo
-  
-  A imagem talvez vá ser o octocat mesmo, nem usarei a network por enquanto
-  
-  Here are some ideas to get you started:
 
-:octocat:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- :octocat: Eu atualmente trabalho em EngNet Consultoria como Diretor de Projetos
+- 🌱 Eu estou aprendendo desenvolvimento de jogos
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-**ismaelithalo/ismaelithalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelithalo&theme=dark"/>
+  
+  Falar dos meus projetos e planos como o foco em js do uri ou coisas do curso mesmo
+
 
 Most used apps
 https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelithalo&theme=dark
@@ -43,14 +65,10 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelithalo&them
     Hello my name is Luiz Carlos, Fullstack JavaScript Developer and aspiring DevOps.
 
 
-
-
-
 ### - Languages and Tools...
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-
 </p>
 
 -->
