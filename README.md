@@ -9,7 +9,7 @@
     <em>Graduando em Engenharia de Redes de Comunicação pela 
       <a href="http://www.unb.br">Universidade de Brasília</a>
       <img src="https://raw.githubusercontent.com/ismaelithalo/ismaelithalo/master/src/img/unb.png" width="30">
-      <img src="https://raw.githubusercontent.com/ismaelithalo/ismaelithalo/master/src/img/ft.jpeg" width="30">
+      <!--img src="https://raw.githubusercontent.com/ismaelithalo/ismaelithalo/master/src/img/ft.jpeg" width="30"-->
     </em>
   </p>
   <!--p>
