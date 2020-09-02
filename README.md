@@ -23,7 +23,7 @@
       <img src="https://raw.githubusercontent.com/ismaelithalo/ismaelithalo/master/src/img/ft.jpeg" width="30">
     </em>
   </p>
-  <br><br><br>
+  <br><br>
   <p>
     <h4>
       Recursos que possuo experiência (｡•̀ᴗ-)✧ 
