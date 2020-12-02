@@ -17,9 +17,9 @@
   </p>
   
   
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismael-ithalo/)](https://www.linkedin.com/in/ismael-ithalo/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ismaelithalo@gmail.com)](mailto:ismaelithalo@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-de1b85?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ismaelithalo/)](https://www.instagram.com/ismaelithalo/)
+  [![Linkedin Badge](https://img.shields.io/badge/-Ismael_Ithalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismael-ithalo/)](https://www.linkedin.com/in/ismael-ithalo/)
+[![Gmail Badge](https://img.shields.io/badge/-ismaelithalo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ismaelithalo@gmail.com)](mailto:ismaelithalo@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@ismaelithalo-de1b85?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ismaelithalo/)](https://www.instagram.com/ismaelithalo/)
   
   <!--p>
     :computer:
