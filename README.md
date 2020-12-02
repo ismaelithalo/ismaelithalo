@@ -19,7 +19,7 @@
   
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismael-ithalo/)](https://www.linkedin.com/in/ismael-ithalo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ismaelithalo@gmail.com)](mailto:ismaelithalo@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-de1b85?style=flat-square&logo=Instagram&logoColor=white&link=mailto:https://www.instagram.com/ismaelithalo/)](mailto:https://www.instagram.com/ismaelithalo/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-de1b85?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ismaelithalo/)](https://www.instagram.com/ismaelithalo/)
   
   <!--p>
     :computer:
